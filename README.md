@@ -1,5 +1,5 @@
-# StudentDatabaseProject
-# Student Record System (MS Access Project)
+# MagazineDatabaseProject
+# Magazine Record System (MS Access Project)
 
 This is a **Microsoft Access (.accdb)** based database project developed as part of a semester assignment. It manages and organizes student academic records in a structured way.
 
@@ -14,7 +14,7 @@ This is a **Microsoft Access (.accdb)** based database project developed as part
 - Relational Database Model
 
 ## 📝 File Description
-- `Student_Record_System.accdb`: Main database file with all tables, queries, and forms
+- `Magazine_Record_System.accdb`: Main database file with all tables, queries, and forms
 
 ## 📌 How to Use
 1. Download the `.accdb` file from this repository
